@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zip_codes">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Sevilla</item>
+        <item>Navarra</item>
+        <item>Galicia</item>
+    </string-array>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TextViewsActivity">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. TextView" />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre y apellidos" />
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Cambiar color" />
+
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Texto color indigo 500" />
+
+    <TextView
+        android:id="@+id/t5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Cambiar tamaño" />
+
+    <TextView
+        android:id="@+id/t6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tamaño de 14sp" />
+
+    <TextView
+        android:id="@+id/t7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tamaño de 16sp" />
+
+    <TextView
+        android:id="@+id/t8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tamaño de 20sp" />
+
+    <TextView
+        android:id="@+id/t9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tamaño de 24sp" />
+
+    <TextView
+        android:id="@+id/t10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Cambiar estilo de fuente" />
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estilo normal" />
+
+    <TextView
+        android:id="@+id/t12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estilo en negrita" />
+
+    <TextView
+        android:id="@+id/t13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estilo italico" />
+
+    <TextView
+        android:id="@+id/t14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estilos italico y negrita" />
+
+    <TextView
+        android:id="@+id/t15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. Cambair tipo de fuente" />
+
+    <TextView
+        android:id="@+id/t16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipo de fuente sans" />
+
+    <TextView
+        android:id="@+id/t17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipo de fuente serif" />
+
+    <TextView
+        android:id="@+id/t18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipo de fuente monospace" />
+
+    <TextView
+        android:id="@+id/t19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6. Convertir urls en links clickeables" />
+
+    <TextView
+        android:id="@+id/t20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://www.w3schools.com/" />
+
+    <TextView
+        android:id="@+id/t21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="7.Convertir a mayusculas " />
+
+    <TextView
+        android:id="@+id/t22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://www.w3schools.com/" />
+</LinearLayout>
