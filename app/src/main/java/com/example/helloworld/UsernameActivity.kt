@@ -24,5 +24,9 @@ class UsernameActivity : AppCompatActivity() {
                 startActivity(displayUsernameActivityIntent)
             }
         }
+
+        binding.volverBoton.setOnClickListener {
+            finish()
+        }
     }
 }
