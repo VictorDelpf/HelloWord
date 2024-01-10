@@ -19,6 +19,4 @@ class DisplayUsernameActivity : AppCompatActivity() {
 
         binding.UsernameTV.text= username
     }
-
-
 }

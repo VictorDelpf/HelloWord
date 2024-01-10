@@ -125,6 +125,7 @@
         android:id="@+id/t20"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:autoLink="web"
         android:text="https://www.w3schools.com/" />
 
     <TextView
@@ -137,5 +138,8 @@
         android:id="@+id/t22"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:clickable="true"
+        android:linksClickable="true"
         android:text="https://www.w3schools.com/" />
 </LinearLayout>
